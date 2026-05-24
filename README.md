@@ -46,6 +46,9 @@ at USTHB – Faculté d'Informatique. Do not use on production systems.
 
 ## Authors
 
-Fegas Lokman Abdelhakim · Hamek Nouh · Haloui Moussa · Cheriet Mahieddine Idris · Kohil Islam
+Kohil Islam · 
+Fegas Lokman Abdelhakim · 
+Hamek Nouh · Haloui Moussa · 
+Cheriet Mahieddine Idris · 
 
 *USTHB – Faculté d'Informatique, Novembre 2025*
